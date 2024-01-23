@@ -1,9 +1,14 @@
-Działania + - * / % 
+Działania + - * / % ** //
+(**) - potęgowanie
+(//) - dzielenie bez reszty (int)
 
-print(1 + 2)
-print(1 - 2)
-print(1 * 2)
-print(1 / 2)
-print(9 % 2)
-print()
-print((2 + 2) * 2)
+print() - (z angielskiego: wydrukować/drukować) funkcja służy do wyświetlenia czegoś w konsoli pythona
+
+(int) - całość
+(float) - zmienna przecinkowa
+(string) - zmienna tekstowa
+
+# - komentarz jednolinijkowy
+""" - komentarz wielolinijkowy
+
+TODO - taski do zrobienia
