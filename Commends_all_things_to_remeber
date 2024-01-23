@@ -1,4 +1,5 @@
 Działania + - * / % ** //
+Pamiętaj o kolejności wykonywania działań i nawiasach
 (**) - potęgowanie
 (//) - dzielenie bez reszty (int)
 
@@ -12,3 +13,7 @@ print() - (z angielskiego: wydrukować/drukować) funkcja służy do wyświetlen
 """ - komentarz wielolinijkowy
 
 TODO - taski do zrobienia
+
+konkatonacja - łączenie stringów
+
+input()
