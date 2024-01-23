@@ -1,0 +1,8 @@
+Drogi Filipie, oto Twoje zadanie
+
+Napisz program, który pobierze od użytkownika jego imię oraz poproś go o podanie dwóch liczb.
+Przywitaj użytkownika zrób mu kalkulator:
+2 podane przez niego liczby będą obliczane diałaniami (+ - * / ** // %) w osobnych wierszach,
+Dodatkowo na końcu będzie wyświetlone słowo dziękuję tyle razy ile wartość liczby 2.
+
+Good luck!
