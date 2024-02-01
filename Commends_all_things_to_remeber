@@ -33,3 +33,10 @@ istnieje też możliwość skróconego zapisywania działań:
 - /=
 
 del(nazwa zmiennej) - usuwa zmienną z pamięci programu
+
+boolean - True/False - przyjmuje takie wartości
+
+zmienna 1 == zmienna 2 - równa?
+zmienna 1 != zmienna 2 - czy nierówne?
+zmienna 1 >= zmienna 2 - większa lub równa?
+zmienna 1 < zmienna 2 - mniejsza?
