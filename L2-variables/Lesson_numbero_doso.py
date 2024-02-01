@@ -17,4 +17,28 @@ print(varMożeszNazwaćJakChcesz)
 var2 = var3 + var4 + 9
 print (var2)
 
+var5 = 'światowych którą przekazała ciotka od strony babci prababci wujka zbigniewa'
+
+print(f'Herbata lipton to numer {var3} najlepszych herbat na świecie! W {var2} roku została nominowana do {var4} nagród {var5}')
+
+
+var1 = 3
+#var1 = var1 + var1
+#var1 += var1
+var1 *= var1
+
+
+print(var1)
+
+del(var1)
+"""
+zapis specjalny dla dłuższych ciągów znaków:
+print(f'dowolny txt {nazwa zmiennej} dowolny txt {nazwa zmiennej}')
+
+istnieje też możliwość skróconego zapisywania działań:
+- +=
+- *=
+- -=
+- /=
+"""
 

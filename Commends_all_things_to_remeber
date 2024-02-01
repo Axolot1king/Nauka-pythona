@@ -17,3 +17,19 @@ TODO - taski do zrobienia
 konkatonacja - łączenie stringów
 
 input()
+
+konwersja zmiennych : zmiana typu zmiennej
+n.p. jeśli pobieramy od użytkownika wartość liczbową to jest ona stringiem możemy zmienić ją na zmienną liczbową używając
+int(nazwa zmiennej)
+float(nazwa zmiennej)
+
+zapis specjalny dla dłuższych ciągów znaków:
+print(f'dowolny txt {nazwa zmiennej} dowolny txt {nazwa zmiennej}')
+
+istnieje też możliwość skróconego zapisywania działań:
+- +=
+- *=
+- -=
+- /=
+
+del(nazwa zmiennej) - usuwa zmienną z pamięci programu
