@@ -5,4 +5,4 @@ amount = input('Jaką ilość pan/i chciał/a by pan/i cegły' + var2)
 
 # TODO funkcja wyświetlająca użytkownikowi zamuwienie/a
 
-print('Zamówiłeś/aś ' + name + 'w ilości ' + amount)
+print('Zamówiłeś/aś ' + name + ' cegłę ' + 'w ilości ' + amount)

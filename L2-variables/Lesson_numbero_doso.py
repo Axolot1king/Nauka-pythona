@@ -17,3 +17,4 @@ print(varMożeszNazwaćJakChcesz)
 var2 = var3 + var4 + 9
 print (var2)
 
+
