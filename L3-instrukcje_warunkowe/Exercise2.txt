@@ -1,0 +1,31 @@
+Basic Task:
+Dear programmer,
+We were contacted by a company that wants to reduce the number of employees in the position of: Senior Personnel Capability Verifier.
+This employee's duties mainly include answering questions from respondents. Each time, applicants complete the survey by entering their name, gender and age and, of course, ask questions. The questions asked by the petitioners are as follows.
+
+At my age, can I:
+- Buy energy drinks, digital content for adults, alcohol and cigarettes;
+- Get a driving license for Category A, B, B1;
+- Apply for the position of member of parliament, lay judge, president
+- Am I entitled to a pension?
+
+In response, the petitioner receives information:
+- Yes, your age entitles you to...
+- No, your age does not entitle you to ... . However, in (a specified/calculated number of years) you will be entitled to ... .
+
+Sources:
+         * License category - https://obywatel.gov.pl/pl/dokumenty-i-dane-osobowe/kategorie-prawa-jazdy
+         * Pension entitlements https://www.zus.pl/swiadczenia/emerytury/emerytura-dla-osob-urodzinych-po-31-grudnia-1948/emerytura-w-wieku-powszechnym
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Additional task:
+Remember to take >= 10 lessons at https://www.typingclub.com/
+P.S. Don't forget to log in to your account.
+
+Sources:
+         * Here you will find information on how to find it
+https://support.ricoh.com/bb_v1oi/pub_e/oi_view/0001079/0001079475/view/user/int/0131.htm
+
+If you have any questions -> call me
+Good luck!
