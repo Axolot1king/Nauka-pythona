@@ -31,7 +31,8 @@ if wiek > 16:
 
 elif wiek < 16:
     print('jesteś zbyt młody =(')
+    print( 'masz 16 lat! chyba bardzo chciałeś'  )
 
 else:
-    print( 'masz 16 lat! chyba bardzo chciałeś wejść na ta stronę=)')
+    print('wejść na ta stronę=)')
 
