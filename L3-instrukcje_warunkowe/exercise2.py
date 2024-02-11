@@ -55,6 +55,8 @@ if prw == 'yes':
         print("you can't do driving licence of category A ")
         print('you need to wait ' + str(20 - wk) + 'years')
 
+
+
 if prw == 'no':
     if wk >= 24:
         print('you can do driving licence '
