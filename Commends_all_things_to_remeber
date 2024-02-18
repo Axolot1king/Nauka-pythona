@@ -40,3 +40,5 @@ zmienna 1 == zmienna 2 - równa?
 zmienna 1 != zmienna 2 - czy nierówne?
 zmienna 1 >= zmienna 2 - większa lub równa?
 zmienna 1 < zmienna 2 - mniejsza?
+
+AND, OR, NOT
