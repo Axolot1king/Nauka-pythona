@@ -1,0 +1,13 @@
+Main task
+Write a login system.
+There are three users in the system, each of them has a login and password.
+The program asks the user no more than 3 times to provide the correct login and password.
+If the data is correct, you receive information - you have logged in, otherwise, if the username does not exist, you receive a message - the user does not exist, if the password is incorrect, you receive a message - login or password is incorrect.
+After three incorrect attempts, he receives a message that his account has been blocked.
+
+ADD
+
+Confirmed by foto
+https://www.typingclub.com/ *20 lessons
+
+Find out, thet last L3 program works.
