@@ -111,8 +111,9 @@ else:
                 u1pv2 = input('enter user password:')
                 u1usv2 = input('enter username :')
                 if u1p == u1pv2 and u1us == u1usv2:
-                    print("you hacked in user 2 account (he is medium one"
-                          "\ni'm impressed) one left!")
+                    print("you... you... you did i... i... it?! "
+                          "\nyou in 0.1% that did it im so impressed "
+                          "\nwow WoW WOW")
                 else:
-                    print("you failed... Im not that angry he is medium one.he is medium i'm a little angry"
-                          "\n cuz you know, its long time of studying but its medium =|")
+                    print("99.9% don't did it you in them =| "
+                          "\ni'm not impressed")
