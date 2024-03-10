@@ -1,4 +1,4 @@
-dowolna = 3465
+dowolna = 1
 dow = 0
 str = 'słowo'
 lists = [9854, 'fod', 75, 'fud', 65, dowolna]
