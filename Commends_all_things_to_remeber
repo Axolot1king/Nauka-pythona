@@ -71,3 +71,5 @@ y = [45, 'ppo', 'oop', 69]
 y[1] = y[2]
 lista po:
 y = [45, 'oop', 'oop', 69]
+
+len - liczy ilość rzeczy w liście.
