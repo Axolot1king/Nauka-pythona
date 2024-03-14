@@ -75,3 +75,7 @@ lista po:
 y = [45, 'oop', 'oop', 69]
 
 len - liczy ilość rzeczy w liście.
+
+range - od, do, wielkość skoku range(x, y, z)
+
+randit - losowa liczba od, do
