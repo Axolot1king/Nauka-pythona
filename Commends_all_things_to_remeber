@@ -60,6 +60,8 @@ lista - zapis w ,[]' lista zaczyna się od 0 przykład:
                                                 x = [758, 9750,'rabarbar', 'kapysta']
                                                       |     |       |          |
                                                       0     1       2          3
+
+str to też tablica!
 by wydrukować rzecz z listy :
                              print(x[2])
 na konsoli wydrukowano ,rabarbar'
