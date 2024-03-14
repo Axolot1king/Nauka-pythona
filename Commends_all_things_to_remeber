@@ -42,3 +42,36 @@ zmienna 1 >= zmienna 2 - większa lub równa?
 zmienna 1 < zmienna 2 - mniejsza?
 
 AND, OR, NOT
+
+while - powtarza dany kod dopuki warunek nie spełniony (np. while x <= 3:
+                                                                print('hello world!')
+                                                                x += 1
+
+break - zatrzymuje kod
+continue - omija część kodu pod nim i wraca na górę np. while-a przykład:
+                                                                 -> while x <= 3:
+                                                                 |     if text == text
+                                                                 |          print('hello world!')
+                                                                 |----------continue
+                                                                            if text != text:
+                                                                            print("man i'm dead")
+
+lista - zapis w ,[]' lista zaczyna się od 0 przykład:
+                                                x = [758, 9750,'rabarbar', 'kapysta']
+                                                      |     |       |          |
+                                                      0     1       2          3
+
+str to też tablica!
+by wydrukować rzecz z listy :
+                             print(x[2])
+na konsoli wydrukowano ,rabarbar'
+
+można zmienić jakąś część listy na np. inną część:
+
+lista perzed:
+y = [45, 'ppo', 'oop', 69]
+y[1] = y[2]
+lista po:
+y = [45, 'oop', 'oop', 69]
+
+len - liczy ilość rzeczy w liście.
