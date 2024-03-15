@@ -1,8 +1,4 @@
-var1 = input('your first name : ')
-var2 = input('your last name : ')
-var3 = input('your credit card number : ')
-var4 = input('your age : ')
+import random
+random_code = ''.join(random.choices('0123456789', k=4))
 
-print('if you enter everything you stupid! ')
-print('you should not enter your age and credit card number!')
-print('if its real program you probably been robbed!')
+print("Random 4-digit code:", random_code)
