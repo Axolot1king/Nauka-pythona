@@ -1,0 +1,27 @@
+Today's task will be dengerous.
+
+
+TODO BOOM!
+Create a bomb.
+The program is supposed to ask for the code to arm the bomb.
+If the four-digit pin is correct, the program starts counting down from 15 to 0.
+At the end of the program there will be an announcement about the explosion!
+Use a for loop for this.
+
+Needed library and function at the beginning of the code:
+
+# import console cleanup library
+from os import system, name
+
+import os
+# Console cleaning
+os.system('cls')
+ 
+# import time library
+from time import sleep
+# use pause to wait a second
+sleep(1)
+
+*You can use any methods to create a program.
+
+TODO Do the typing exercises without looking at the keyboard for task 70 and confirm it with a screenshot.
