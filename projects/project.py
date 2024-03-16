@@ -1,4 +1,20 @@
-import random
-random_code = ''.join(random.choices('0123456789', k=4))
 
-print("Random 4-digit code:", random_code)
+x = int(input('enter password:'))
+
+if x == 8766:
+    import winsound
+
+
+    def play_explosion_sound():
+        # Specify the path to the explosion sound file
+        explosion_sound_file = "aaa.wav"
+
+        # Play the explosion sound
+        winsound.PlaySound(explosion_sound_file, winsound.SND_FILENAME)
+
+
+    # Call the function to play the explosion sound
+    play_explosion_sound()
+else:
+    print('you try to hack in!?')
+
