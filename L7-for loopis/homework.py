@@ -12,11 +12,11 @@ if ahh == 'Y':
 coded = input('enter arm-bomb password:')
 
 if coded == random_code:
-    for t in range(15, -1, -1):
+    for t in range(15, 0, -1):
         print('run! time left:', t, 'seconds')
         winsound.Beep(1000, 500)  # Beep with frequency 1000 Hz and duration 500 milliseconds
         sleep(1)
-        if t == 0:
+        if t == 1:
             print("\U0001F4A5\U0001F4A5\U0001F4A5 BOOM! \U0001F4A5\U0001F4A5\U0001F4A5")
             import winsound
 
