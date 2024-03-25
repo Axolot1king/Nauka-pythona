@@ -1,0 +1,23 @@
+Hi,
+There are many tasks ahead of you.
+First, take notes from the last lesson.
+
+3 types of functions (without arguments, with and with an argument that is not required [function overloads]) that you know at the moment. In the next classes we will learn more about the possibilities.
+
+Task 1: Divide our created function into 2 and call one function another so that it is executed as many times as the user wants.
+
+Task 2: Create a calculator that will add, subtract, multiply and divide 2 values entered by the user, if he does not provide the second number, the number will be 1.
+
+Task 3: Create a graphic like a piece of paper, in the colors we have chosen.
+Additional materials can be found here:
+# From here you can download 3 graphics with examples.
+https://github.com/danditk/Nauka-pythona/tree/development/L8-Functions
+# Here are links to turtle libraries:
+https://docs.python.org/3/library/turtle.html
+https://realpython.com/beginners-guide-python-turtle/
+https://programmierkonzepte.ch/engl/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=turtle/turtledoc.html
+https://python-intro.readthedocs.io/en/latest/turtles.html
+https://www.geeksforgeeks.org/turtle-programming-python/
+
+Task 4: Make 10 more typingclub lessons, confirmed with a screenshot and uploaded to the lesson directory.
+Good luck
