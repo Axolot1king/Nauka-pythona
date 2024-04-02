@@ -14,7 +14,7 @@ print() - (z angielskiego: wydrukować/drukować) funkcja służy do wyświetlen
 
 TODO - taski do zrobienia
 
-konkatonacja - łączenie stringów
+konkantynacja - łączenie stringów
 
 input()
 
@@ -79,3 +79,21 @@ len - liczy ilość rzeczy w liście.
 range - od, do, wielkość skoku range(x, y, z)
 
 randit - losowa liczba od, do
+
+for - dla
+np:
+for x in range(1, 5, 1):
+
+def - definiuje czy wywołany
+np.
+def Drukowanie_pion():
+    ort = 'ortografia'
+    n = len(ort)                 - w tym przypadku nic się niestanie*
+    x = 0
+    while x < n:
+        print(ort[x])
+        x += 1
+
+Drukowanie_pion() - wywołujemy def
+
+* - przed dodaniem wywołania

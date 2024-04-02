@@ -2,13 +2,16 @@
 def add(x, y):
     return x + y
 
+
 # Function to subtract two numbers
 def subtract(x, y):
     return x - y
 
+
 # Function to multiply two numbers
 def multiply(x, y):
     return x * y
+
 
 # Function to divide two numbers
 def divide(x, y):
@@ -16,6 +19,7 @@ def divide(x, y):
         return "Error! Division by zero is not allowed."
     else:
         return x / y
+
 
 print("Select operation:")
 print("1. Add")
@@ -27,8 +31,11 @@ while True:
     choice = input("Enter choice (1/2/3/4): ")
 
     if choice in ('1', '2', '3', '4'):
-        num1 = float(input("Enter first number: "))
-        num2 = float(input("Enter second number: "))
+        num1_input = input("Enter first number : ")
+        num1 = float(num1_input) if num1_input else 1.0
+
+        num2_input = input("Enter second number : ")
+        num2 = float(num2_input) if num2_input else 1.0
 
         if choice == '1':
             print("Result:", add(num1, num2))

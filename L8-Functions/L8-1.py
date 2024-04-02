@@ -17,7 +17,7 @@ def Drukowanie_pion(userWord, userNumber = 1):
 
 
 user_word = input('Enter word: ')
-user_number = input('enter number words gonna be '
+user_number = input('enter number word gonna be '
                     '\nprinted: ')
 if user_number == '':
     Drukowanie_pion(user_word)
