@@ -84,7 +84,7 @@ for - dla
 np:
 for x in range(1, 5, 1):
 
-def - definiuje czy wywołany
+def - służy do stworzenia funkcji (definiowanie)
 np.
 def Drukowanie_pion():
     ort = 'ortografia'
@@ -97,3 +97,19 @@ def Drukowanie_pion():
 Drukowanie_pion() - wywołujemy def
 
 * - przed dodaniem wywołania
+
+w nawiasach wpisuje się zmienne (które są argumentami)
+
+mamy trzy rodzaje funkcji:
+
+- mają zadeklarowane argumenty
+- nie mają argumentów
+- argumenty mają wartości (opcjonalne jest deklarowanie wartości w
+                           trakcie wykorzystania funkcji)
+
+funkcje tworzy się dla wielokrotnego użytku
+
+
+NIE KOPIOWAĆ ZADAŃ KTÓRYCH NIE UMIEM WYTŁUMACZYĆ!
+
+- Procedury to funkcje które nie zwracają wartości (bez return)

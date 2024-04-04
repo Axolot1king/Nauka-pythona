@@ -8,6 +8,7 @@ def Drukowanie_pion():
         x += 1
 """
 
+
 def Drukowanie_pion(userWord, userNumber = 1):
     for y in range(userNumber):
         for x in range(len(userWord)):
@@ -19,6 +20,7 @@ def Drukowanie_pion(userWord, userNumber = 1):
 user_word = input('Enter word: ')
 user_number = input('enter number word gonna be '
                     '\nprinted: ')
+
 if user_number == '':
     Drukowanie_pion(user_word)
 else:
