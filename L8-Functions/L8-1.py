@@ -21,8 +21,4 @@ user_word = input('Enter word: ')
 user_number = input('enter number word gonna be '
                     '\nprinted: ')
 
-if user_number == '':
-    Drukowanie_pion(user_word)
-else:
-    user_number = int(user_number)
-    Drukowanie_pion(user_word, user_number)
+Drukowanie_pion(user_word) if user_number == '' else Drukowanie_pion(user_word, int(user_number))
