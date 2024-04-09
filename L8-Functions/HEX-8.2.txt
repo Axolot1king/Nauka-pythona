@@ -1,0 +1,32 @@
+Hi,
+There are a few small tasks ahead of you and one program to create.
+
+In the text of the last task in the header it was:
+"3 types of functions (no arguments, with and with an argument that is not required [function overloads]) that you know right now. We will learn more about the possibilities in the next class." We did it, so...
+You may have made a note of this recently. This information was missing.
+
+
+Task 1: Add functions to previously created turtle functions wherever possible. It is always desirable to keep the code as simple and short as possible.
+
+Task 2: Rework the last problem where you used a conditional function and replace the standard if with a shortened version.
+Info:
+https://www.w3schools.com/python/gloss_python_if_else_shorthand.asp
+On the paper you wrote about lines 23-27.
+
+Task 3 MOST IMPORTANT:
+Create a function that will perform tasks one by one.
+1. It will ask the user whether he wants to convert units from meters to inches or vice versa.
+2. It will ask the user for the value he wants to replace.
+3. Give him the converted value to the appropriate unit, as well as the power of this value (to the second power) and the cube of this value (to the third power) along with the displayed unit.
+Additional notes:
+The program is to run until the user resigns from further calculations.
+Unit conversion is to be a separate function that returns the value of the converted value.
+
+Task 4: Find out what BMI is, how it is calculated and what it is used for, and in what cases it should not be used.
+Ask someone what factorial - "silnia!" is and how it is calculated. It's a simple matter.
+
+Task 5: Make 10 more lessons in TypingClub, confirm with a screenshot and upload to the lesson directory.
+
+Remember to take notes from the last lesson. The idea is that you can remember important issues without opening all the files you have in the repository every time.
+
+Good luck
