@@ -113,3 +113,5 @@ funkcje tworzy się dla wielokrotnego użytku
 NIE KOPIOWAĆ ZADAŃ KTÓRYCH NIE UMIEM WYTŁUMACZYĆ!
 
 - Procedury to funkcje które nie zwracają wartości (bez return)
+
+return - zwraca wartość w funkcji
