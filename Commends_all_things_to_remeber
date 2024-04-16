@@ -98,7 +98,7 @@ Drukowanie_pion() - wywołujemy def
 
 * - przed dodaniem wywołania
 
-w nawiasach wpisuje się zmienne (które są argumentami)
+w nawiasach wpisuje się zmienne (które są argumentami) wysłanymi do funkcji
 
 mamy trzy rodzaje funkcji:
 
@@ -110,8 +110,18 @@ mamy trzy rodzaje funkcji:
 funkcje tworzy się dla wielokrotnego użytku
 
 
-NIE KOPIOWAĆ ZADAŃ KTÓRYCH NIE UMIEM WYTŁUMACZYĆ!
 
 - Procedury to funkcje które nie zwracają wartości (bez return)
 
-return - zwraca wartość w funkcji.
+return - zwraca wartość w funkcji
+
+:.2f - zaokrągla liczby do 2 cyfr po przecinku (kropce)
+np.
+print(f"{value} inches is equal to {meters_value:.2f} meters.")
+
+.lower() = zmienia litery z dużych (ABC) na małe (abc)
+.upper() = odwrotne działanie niż .lower()
+
+
+
+NIE KOPIOWAĆ ZADAŃ KTÓRYCH NIE UMIEM WYTŁUMACZYĆ!

@@ -1,5 +1,4 @@
 from turtle import *
-
 import turtle
 turtle.Screen()
 t = turtle.Turtle()
