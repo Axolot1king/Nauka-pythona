@@ -1,0 +1,14 @@
+Hi,
+All you have to do is finish what we haven't finished together.
+
+Task 1: When calculating BMI, the user must have feedback, thanks to which, in addition to the number, he will also have feedback about whether he should worry, how much and what work he needs to put in to take care of his health. He should also be told about the dangers and consequences of negligence. So if he is underweight for a long time, he is at risk of such consequences, and if he is overweight, he is at risk of such consequences.
+
+Task 2: UNDONE TASK:
+To catch up.
+Ask someone what factorial - "silnia!" is and how it is calculated. It's a simple matter.
+
+Task 3: Make 10 more lessons in TypingClub, confirm with a screenshot and upload to the lesson directory. You will finally reach lesson 100, congratulations! We will check how you are doing in classes.
+
+Remember to take notes from the last lesson.
+
+Good luck
