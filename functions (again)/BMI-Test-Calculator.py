@@ -3,18 +3,12 @@ import runpy
 
 # noinspection PyStatementEffect
 def BMI():
-    wzrosT = input("What is ur height [meters]? : ")
-    nasA = input("What is ur weight [kilos]? : ")
-
-    if wzrosT == " " or nasA == " ":
-        print('invalid key')
-
-    else:
-        float(wzrosT)
-        float(nasA)
+    wzrosT = float(input("What is ur height [meters]? : "))
+    nasA = float(input("What is ur weight [kilos]? : "))
 
     def BMIv2(nasa, wzrost):
         return nasa / wzrost **2
+
     print('bmi test result is : ', BMIv2(nasA, wzrosT))
 
     number = float(input('enter your BMI test number : '))
@@ -28,7 +22,7 @@ def BMI():
         print('You have normal weight! you basically perfect (in mass)')
 
     elif 25.0 <= number <= 29.9:
-        print("You have pre-obesity! go run for 2 hours for 5 days end"
+        print("You have pre-obesity! go run for 2 hours daily for 5 days and"
               "\ncheck again if it's go higher you may have issues")
 
     elif 30.0 <= number <= 34.9:

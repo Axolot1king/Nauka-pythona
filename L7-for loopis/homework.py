@@ -1,5 +1,5 @@
 import random
-from time import sleep
+from time import sleep as poczekaj
 import winsound
 
 random_code = ''.join(random.choices('0123456789', k=4))
@@ -15,7 +15,7 @@ if coded == random_code:
     for t in range(15, 0, -1):
         print('run! time left:', t, 'seconds')
         winsound.Beep(1000, 500)  # Beep with frequency 1000 Hz and duration 500 milliseconds
-        sleep(1)
+        poczekaj(0.5)
         if t == 1:
             print("\U0001F4A5\U0001F4A5\U0001F4A5 BOOM! \U0001F4A5\U0001F4A5\U0001F4A5")
             import winsound

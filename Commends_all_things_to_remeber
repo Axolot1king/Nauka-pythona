@@ -122,6 +122,7 @@ print(f"{value} inches is equal to {meters_value:.2f} meters.")
 .lower() = zmienia litery z dużych (ABC) na małe (abc)
 .upper() = odwrotne działanie niż .lower()
 
-
-
+try - spróbuj wykonać wszystko po dwukropku w przeciwnym razie...
+except - ... czynności, które mają się wykonać jeżeli wystąpi wyjątek (ERROR)
+as - jako używane by zamienić nazwę domyślną zmiennej lub funkcji na własną
 NIE KOPIOWAĆ ZADAŃ KTÓRYCH NIE UMIEM WYTŁUMACZYĆ!
