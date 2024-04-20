@@ -7,6 +7,7 @@ def BMI():
     wzrosT = input("What is ur height [meters]? : ")
     nasA = input("What is ur weight [kilos]? : ")
 
+
     try:
         def BMIv2(nasa, wzrost):
             float(wzrosT)
