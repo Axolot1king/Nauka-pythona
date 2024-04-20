@@ -1,18 +1,26 @@
 import runpy
+import sys
 
 
 # noinspection PyStatementEffect
 def BMI():
-    wzrosT = float(input("What is ur height [meters]? : "))
-    nasA = float(input("What is ur weight [kilos]? : "))
+    wzrosT = input("What is ur height [meters]? : ")
+    nasA = input("What is ur weight [kilos]? : ")
 
-    def BMIv2(nasa, wzrost):
-        return nasa / wzrost **2
+    try:
+        def BMIv2(nasa, wzrost):
+            float(wzrosT)
+            float(nasA)
+            return nasa / wzrost ** 2
+        print('bmi test result is : ', BMIv2(nasA, wzrosT))
 
-    print('bmi test result is : ', BMIv2(nasA, wzrosT))
+    except ValueError:
+        print('Nah invalid key : ', ValueError)
+        while True:
+            print('Rerun.')
+            sys.exit(1)
 
     number = float(input('enter your BMI test number : '))
-
 
     if number < 18.5:
         print('You have underweight! you must eat a lil bit more'
