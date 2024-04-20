@@ -3,6 +3,7 @@ def BMI():
     wzrost = input("What is ur height [meters]? :")
     masa = input("What is ur weight [kilos]? :")
 
+
     try:
         wzrost = float(wzrost)
         masa = float(masa)
