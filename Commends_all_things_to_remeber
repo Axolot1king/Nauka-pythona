@@ -93,7 +93,7 @@ def Drukowanie_pion():
     while x < n:
         print(ort[x])
         x += 1
-
+  
 Drukowanie_pion() - wywołujemy def
 
 * - przed dodaniem wywołania
@@ -125,4 +125,5 @@ print(f"{value} inches is equal to {meters_value:.2f} meters.")
 try - spróbuj wykonać wszystko po dwukropku w przeciwnym razie...
 except - ... czynności, które mają się wykonać jeżeli wystąpi wyjątek (ERROR)
 as - jako używane by zamienić nazwę domyślną zmiennej lub funkcji na własną
+kwartał = 3 mies.
 NIE KOPIOWAĆ ZADAŃ KTÓRYCH NIE UMIEM WYTŁUMACZYĆ!
